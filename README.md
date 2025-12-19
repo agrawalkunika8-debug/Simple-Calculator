@@ -1,2 +1,3 @@
 # Simple-Calculator
-A fully functional calculator application developed using HTML, CSS, and JavaScript. The project features a modern UI, responsive layout, and supports basic arithmetic operations including addition, subtraction, multiplication, division, percentage, and clear/delete functionality.
+This project is a simple yet elegant calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and demonstrates core front-end development concepts such as DOM manipulation and event handling.
+
